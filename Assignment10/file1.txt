@@ -1,0 +1,5 @@
+Bengali 99
+Engish 100
+Math 100
+Physics 99
+Chemistry 98
